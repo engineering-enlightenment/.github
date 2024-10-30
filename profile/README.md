@@ -8,11 +8,14 @@ Engineering Enlightenment operates entirely on donations, and all donated resour
 
 ## Publicly Available Works
 
-Technical materials, including code, data files, diagrams, and documents are available here on GitHub: [https://github.com/engineering-enlightenment](https://github.com/engineering-enlightenment)
+Technical materials, including code, data files, diagrams, and documents are available here on GitHub:
+[https://github.com/engineering-enlightenment](https://github.com/engineering-enlightenment)
 
-Videos are available on YouTube: [https://www.youtube.com/@EngineeringEnlightenment](https://www.youtube.com/@EngineeringEnlightenment)
+Videos are available on YouTube:
+[https://www.youtube.com/@EngineeringEnlightenment](https://www.youtube.com/@EngineeringEnlightenment)
 
-Videos, podcasts, diagrams, and documents are available on Patreon: [https://patreon.com/EngineeringEnlightenment](https://patreon.com/EngineeringEnlightenment)
+Videos, podcasts, diagrams, and documents are available on Patreon:
+[https://patreon.com/EngineeringEnlightenment](https://patreon.com/EngineeringEnlightenment)
 
 ## Contact
 
@@ -24,5 +27,6 @@ Use the Patreon link above for smaller donation amounts and for donation via cre
 
 Contact the organization via email to make a donation via check and for donation confirmation and receipts.
 
-Bitcoin donations are appreciated and can be sent directly to: bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6
+Bitcoin donations are appreciated and can be sent directly to:
+**bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6**
 ![Donate to Engineering Enlightenment](bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6.png)
