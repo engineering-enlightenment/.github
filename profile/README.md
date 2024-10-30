@@ -20,5 +20,9 @@ Email the organization at info@engineeringenlightenment.org
 
 ## Donation
 
+Use the Patreon link above for smaller donation amounts and for donation via credit card.
+
+Contact the organization via email to make a donation via check and for donation confirmation and receipts.
+
 Bitcoin donations are appreciated and can be sent directly to: bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6
 ![Donate to Engineering Enlightenment](bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6.png)
