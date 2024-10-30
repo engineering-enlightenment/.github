@@ -20,5 +20,5 @@ Email the organization at info@engineeringenlightenment.org
 
 ## Donation
 
-Bitcoin donations are appreciated and can be sent directly to: [bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6](bitcoin:bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6)
+Bitcoin donations are appreciated and can be sent directly to: bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6
 ![Donate to Engineering Enlightenment](bc1qv2r58lapxzzaj5375qpp55pyknvlkavljwq6j6.png)
